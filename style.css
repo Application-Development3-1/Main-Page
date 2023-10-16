@@ -1,0 +1,140 @@
+*{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.bodycolor{
+  background-color: #F6F6EF;
+}
+
+.STIlogo{
+  background-image: url(sti.jpg);
+  width: 100px;
+  height: 61px;
+  top: 0%;
+  left: 0%;
+  margin-top: 20px;
+  margin-left: 20px;
+  position: absolute;
+}
+
+#box{
+  width: 275px;
+  height: 100px;
+  margin-top: 30px;
+  border-radius: 20px;
+  margin-left: 60px;
+
+}
+
+#text_style{
+  color: #11110e;
+  font-size: 18px;
+  margin-top: 40px;
+  margin-left: 130px;
+
+
+  
+}
+
+#postbox{
+  width: 730px;
+  height: 100px;
+  margin-top: 20px;
+  margin-left: 70px;
+  margin-right: 20px;
+  border-radius: 20px;
+  background-color: white;
+
+}
+
+.bulletin{
+  width: 290px;
+  background-color: #FFD21D;
+  height: 260px;
+  margin-left: 50px;
+  margin-top: 280px;
+}
+
+#blue{
+  width: 290px;
+  height: 45px;
+  background-color: #008FEF;
+}
+
+#yellow{
+  margin-top: 20px;
+  margin-left: 20px;
+  width: 248px;
+  height: 175px;
+  background-color: #F6F6EF;
+}
+
+#text_members{
+  margin-top: 20px;
+  margin-left: 20px;
+  font-weight: 2;
+  color: #11110e;
+
+  margin-bottom: 20px;
+}
+
+#member_post{
+  height: 525px;
+  width: 730px;
+  margin-top: 15px;
+  margin-left: 40px;
+  border-radius: 20px;
+  background-color: white;
+}
+
+#add_post{
+  background-color: #F6F6EF;
+  width: 510px;
+  height: 55px;
+  margin-top: 20px;
+  margin-left: 90px;
+  border-radius: 20px;
+  border: transparent;
+}
+
+#post_content{
+  background-color:#F6F6EF ;
+  height: 415px;
+  width: 675px;
+  margin-top: 82px;
+  margin-left: 15px;
+  border-radius: 20px;
+  
+}
+
+#calendar{
+  width: 230px;
+  height: 60px;
+
+  margin-top: 40px;
+  margin-left: 10px;
+  border-radius: 10px;
+  background-color: #008FEF;
+  border: none;
+
+  color: #F6F6EF;
+  font-weight: bold;
+ 
+}
+
+#lost_found{
+  width: 230px;
+  height: 60px;
+  border-radius: 10px;
+  margin-top: 400px;
+  margin-left: 30px;
+  background-color: #008FEF;
+  border: none;
+  color: #F6F6EF;
+  font-weight: bold;
+
+
+}
+
+#rowlength{
+  width: 100%;
+}
