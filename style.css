@@ -80,7 +80,7 @@
 #member_post{
   height: 525px;
   width: 730px;
-  margin-top: 15px;
+  margin-top: 10px;
   margin-left: 40px;
   border-radius: 20px;
   background-color: white;
@@ -110,8 +110,8 @@
   width: 230px;
   height: 60px;
 
-  margin-top: 40px;
-  margin-left: 10px;
+  margin-top: 60px;
+  margin-left: 0px;
   border-radius: 10px;
   background-color: #008FEF;
   border: none;
@@ -125,14 +125,13 @@
   width: 230px;
   height: 60px;
   border-radius: 10px;
-  margin-top: 400px;
-  margin-left: 30px;
+  margin-top: 11px;
+  margin-left: 10px;
+ 
   background-color: #008FEF;
   border: none;
   color: #F6F6EF;
   font-weight: bold;
-
-
 }
 
 #rowlength{
