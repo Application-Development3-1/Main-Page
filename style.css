@@ -17,6 +17,7 @@
 }
 
 #box{
+  
   width: 275px;
   height: 100px;
   margin-top: 30px;
@@ -24,6 +25,7 @@
   margin-left: 60px;
 
 }
+
 
 #text_style{
   color: #11110e;
@@ -80,14 +82,21 @@
 }
 
 #member_post{
-  height: 525px;
+  height: 550px;
   width: 730px;
   margin-top: 10px;
-  margin-left: 40px;
+  margin-left: 380px;
   border-radius: 20px;
-  background-color: white;
+  background-color : #0B5793;
 
-  box-shadow: 0 2px 1px 0 #e3e3d7;
+  box-shadow: 0 3px 1px 0 #e3e3d7;
+}
+
+#caption{
+  color:#ffffff ;
+  margin-top: 10px;
+  margin-left: 15px;
+  font-size: 14px;
 }
 
 #add_post{
@@ -101,14 +110,23 @@
 }
 
 #post_content{
-  background-color:#F6F6EF ;
+  background-color:#cdcdbe ;
   height: 415px;
   width: 675px;
-  margin-top: 82px;
   margin-left: 15px;
+  margin-top : 10px;
   border-radius: 20px;
-  
 }
+
+#image_content{
+  background-image: url(nj.jpg);
+  height: 415px;
+  width: 550px;
+
+  margin-left: 60px;
+  border-radius: 20px;
+}
+
 
 #calendar{
   width: 230px;
@@ -140,4 +158,34 @@
 
 #rowlength{
   width: 100%;
+}
+
+#post_text{
+  font-weight: bold; 
+  color: #ffffff;
+  font-size: 14px;
+  margin-left: 80px;
+  margin-top: 30px;
+}
+
+#course_post{
+  color: #ffffff;
+  margin-left: 80px;
+  margin-top: 0px;
+}
+
+#left_text_style{
+  font-weight: bold; 
+  color: #717273
+}
+#left_text_style li{
+  margin-left: 40px;
+  margin-top: 10px;
+  list-style: none;
+}
+
+#prof{
+  position: absolute; 
+  margin-left: 0px;
+   
 }
